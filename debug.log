@@ -1,0 +1,19 @@
+2024-11-22 15:52:38,689 - Starting new HTTP connection (1): localhost:5001
+2024-11-22 15:52:38,745 - http://localhost:5001 "GET / HTTP/1.1" 200 368
+2024-11-22 15:52:38,745 - Calcul déjà effectué. Résultat : 28
+2024-11-22 15:52:48,690 - Starting new HTTP connection (1): localhost:5001
+2024-11-22 15:52:48,693 - http://localhost:5001 "GET / HTTP/1.1" 200 368
+2024-11-22 15:52:48,694 - Calcul: 14+14-14+14 -> Résultat: 28, Parité: True, Premier: False, Parfait: True
+2024-11-22 15:52:48,694 - Starting new HTTP connection (1): localhost:5001
+2024-11-22 15:52:48,720 - http://localhost:5001 "POST /api/calcul HTTP/1.1" 200 2
+2024-11-22 15:52:48,721 - Encoding detection: ascii is most likely the one.
+2024-11-22 15:52:48,721 - Réponse de l'API: 28
+2024-11-22 15:52:48,722 - Encoding detection: ascii is most likely the one.
+2024-11-22 15:57:35,064 - Starting new HTTP connection (1): localhost:5001
+2024-11-22 15:57:35,068 - http://localhost:5001 "GET / HTTP/1.1" 200 454
+2024-11-22 15:57:35,069 - Calcul: 2 -> Résultat: 2, Parité: True, Premier: True, Parfait: False
+2024-11-22 15:57:35,069 - Starting new HTTP connection (1): localhost:5001
+2024-11-22 15:57:35,078 - http://localhost:5001 "POST /api/calcul HTTP/1.1" 200 1
+2024-11-22 15:57:35,080 - Encoding detection: ascii is most likely the one.
+2024-11-22 15:57:35,080 - Réponse de l'API: 2
+2024-11-22 15:57:35,080 - Encoding detection: ascii is most likely the one.
